@@ -211,3 +211,5 @@ Thanks to the following people for providing the UI translations:
 * Saiv46 - Russian
 * tototo (@vvto33) - Japanese
 * XDgierman - Polish
+
+:)
